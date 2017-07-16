@@ -1,0 +1,11 @@
+crl/*
+newcerts/*
+private/*
+certs/*
+prototype/*
+prototype
+index.txt
+index.txt.attr
+index.txt.old
+serial
+serial.old
